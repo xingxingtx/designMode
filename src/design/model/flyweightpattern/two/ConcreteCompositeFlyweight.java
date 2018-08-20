@@ -12,8 +12,10 @@ public class ConcreteCompositeFlyweight implements Flyweight {
     /**
      * 增加一个新的单纯享元对象到聚集中
      */
-    public void add(Character key , Flyweight fly){
-        files.put(key,fly);
+    public  void add(Character key , Flyweight fly){
+        synchronized (files){
+            files.put(key,fly);
+        }
     }
     /**
      * 外蕴状态作为参数传入到方法中

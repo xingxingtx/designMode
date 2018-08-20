@@ -12,7 +12,7 @@ public class FlyweightFactory {
     /**
      * 复合享元工厂方法
      */
-    public Flyweight factory(List<Character> compositeState){
+    public synchronized Flyweight factory(List<Character> compositeState){
         ConcreteCompositeFlyweight compositeFly = new ConcreteCompositeFlyweight();
 
         for(Character state : compositeState){
@@ -24,7 +24,7 @@ public class FlyweightFactory {
     /**
      * 单纯享元工厂方法
      */
-    public Flyweight factory(Character state){
+    public synchronized Flyweight factory(Character state){
         //先从缓存中查找对象
         Flyweight fly = files.get(state);
         if(fly == null){
