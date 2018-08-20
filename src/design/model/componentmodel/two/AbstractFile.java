@@ -12,4 +12,6 @@ public abstract class AbstractFile {
     public abstract void remove(AbstractFile file);
     public abstract AbstractFile getChild(int i);
     public abstract void killVirus();
+
+    public abstract void operation();
 }

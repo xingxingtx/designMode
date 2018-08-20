@@ -28,4 +28,9 @@ public class VideoFile extends AbstractFile {
         //模拟杀毒
         System.out.println("----对视频文件'" + name + "'进行杀毒");
     }
+
+    @Override
+    public void operation() {
+
+    }
 }

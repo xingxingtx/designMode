@@ -35,4 +35,9 @@ class Folder extends AbstractFile {
             ((AbstractFile)obj).killVirus();
         }
     }
+
+    @Override
+    public void operation() {
+
+    }
 }

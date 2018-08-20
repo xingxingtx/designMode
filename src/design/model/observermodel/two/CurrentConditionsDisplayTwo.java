@@ -1,11 +1,9 @@
 package design.model.observermodel.two;
 
-import com.design.model.observermodel.one.DisplayElement;
-
 import java.util.Date;
 import java.util.Observable;
 import java.util.Observer;
-
+import design.model.observermodel.one.DisplayElement;
 /**
  * Created by Administrator on 2018/7/25.
  */

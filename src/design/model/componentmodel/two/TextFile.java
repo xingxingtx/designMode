@@ -28,4 +28,9 @@ public class TextFile extends AbstractFile {
         //模拟杀毒
         System.out.println("----对文本文件'" + name + "'进行杀毒");
     }
+
+    @Override
+    public void operation() {
+
+    }
 }

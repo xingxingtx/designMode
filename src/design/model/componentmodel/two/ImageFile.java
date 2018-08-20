@@ -28,4 +28,9 @@ public class ImageFile  extends AbstractFile {
         //模拟杀毒
         System.out.println("----对图像文件'" + name + "'进行杀毒");
     }
+
+    @Override
+    public void operation() {
+
+    }
 }
