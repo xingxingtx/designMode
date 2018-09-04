@@ -3,7 +3,7 @@ package design.model.decoratormodel.two;
 import java.io.*;
 
 /**
- * Created by Administrator on 2018/7/26.
+ * Created by wei.peng on 2018/7/26.
  */
 public class TestMain {
     public static void main(String[] args){

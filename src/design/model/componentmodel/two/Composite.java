@@ -3,7 +3,7 @@ package design.model.componentmodel.two;
 import java.util.ArrayList;
 
 /**
- * Created by Administrator on 2018/8/16.
+ * Created by wei.peng on 2018/8/16.
  *  ● Composite（容器构件）
  */
 public class Composite extends AbstractFile {

@@ -1,7 +1,7 @@
 package design.model.responsibilitychainmodel.three;
 
 /**
- * Created by Administrator on 2018/8/22.
+ * Created by wei.peng on 2018/8/22.
  * 流任务生成处理器
  */
 public class StreamGenerateHandler extends AbstractRuleHandler {

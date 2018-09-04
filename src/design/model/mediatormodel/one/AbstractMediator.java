@@ -1,7 +1,7 @@
 package design.model.mediatormodel.one;
 
 /**
- * Created by Administrator on 2018/8/29.
+ * Created by wei.peng on 2018/8/29.
  */
 public abstract class AbstractMediator {
     protected AbstractColleague A;

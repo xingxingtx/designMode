@@ -3,7 +3,7 @@ package design.model.responsibilitychainmodel.three;
 import org.springframework.util.StringUtils;
 
 /**规则入库处理器
- * Created by Administrator on 2018/8/22.
+ * Created by wei.peng on 2018/8/22.
  */
 public class RulePesistHandler extends AbstractRuleHandler {
 

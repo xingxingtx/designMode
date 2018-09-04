@@ -1,7 +1,7 @@
 package design.model.responsibilitychainmodel.two;
 
 /**
- * Created by Administrator on 2018/8/22.
+ * Created by wei.peng on 2018/8/22.
  */
 public class Client {
     public static void main(String[] args) {

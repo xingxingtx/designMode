@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Administrator on 2018/8/1.
+ * Created by wei.peng on 2018/8/1.
  */
 public class MacroAudioCommand implements MacroCommand{
     private List<Command> commandList = new ArrayList<Command>();

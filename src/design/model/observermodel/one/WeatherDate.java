@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Administrator on 2018/7/25.
+ * Created by wei.peng on 2018/7/25.
  */
 public class WeatherDate implements Subject {
     private List<Observer> observers;

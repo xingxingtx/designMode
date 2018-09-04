@@ -2,7 +2,7 @@ package design.model.Commandmodel.one;
 
 /**
  * 具体命令角色类
- * Created by Administrator on 2018/8/1.
+ * Created by wei.peng on 2018/8/1.
  */
 public class ConcreteCommand implements Command {
     //持有相应的接收者对象

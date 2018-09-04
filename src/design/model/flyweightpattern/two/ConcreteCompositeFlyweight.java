@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Administrator on 2018/8/20.
+ * Created by wei.peng on 2018/8/20.
  */
 public class ConcreteCompositeFlyweight implements Flyweight {
 

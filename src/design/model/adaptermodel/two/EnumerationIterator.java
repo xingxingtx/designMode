@@ -4,7 +4,7 @@ import java.util.Enumeration;
 import java.util.Iterator;
 
 /**
- * Created by Administrator on 2018/8/2.
+ * Created by wei.peng on 2018/8/2.
  */
 public class EnumerationIterator implements Iterator{
    Enumeration enumeration;

@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Administrator on 2018/8/23.
+ * Created by wei.peng on 2018/8/23.
  */
 public class Context {
     private Map<Variable,Boolean> map = new HashMap<Variable,Boolean>();

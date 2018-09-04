@@ -1,7 +1,7 @@
 package design.model.mementomodel.one;
 
 /**
- * Created by Administrator on 2018/8/30.
+ * Created by wei.peng on 2018/8/30.
  * 备忘录角色类，备忘录对象将发起人对象传入的状态存储起来。
  */
 public class Memento {

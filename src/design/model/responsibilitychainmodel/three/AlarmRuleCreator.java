@@ -1,7 +1,7 @@
 package design.model.responsibilitychainmodel.three;
 
 /**
- * Created by Administrator on 2018/8/22.
+ * Created by wei.peng on 2018/8/22.
  * 规则创建责任链
  */
 public class AlarmRuleCreator {

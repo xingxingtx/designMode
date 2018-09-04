@@ -3,7 +3,7 @@ package design.model.buildermodel.two;
 import java.util.Date;
 
 /**
- * Created by Administrator on 2018/8/13.
+ * Created by wei.peng on 2018/8/13.
  */
 public abstract class AutoMessage {
     //收件人地址

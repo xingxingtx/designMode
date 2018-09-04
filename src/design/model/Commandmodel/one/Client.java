@@ -1,7 +1,7 @@
 package design.model.Commandmodel.one;
 
 /**
- * Created by Administrator on 2018/8/1.
+ * Created by wei.peng on 2018/8/1.
  */
 public class Client {
     public static void main(String[] args) {

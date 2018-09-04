@@ -2,7 +2,7 @@ package design.model.iteratormodel.one;
 
 
 /**
- * Created by Administrator on 2018/8/28.
+ * Created by wei.peng on 2018/8/28.
  * 具体聚集角色类，实现了抽象聚集角色类所要求的接口，也就是createIterator()方法。此外，
  * 还有方法getElement()向外界提供聚集元素，而方法size()向外界提供聚集的大小等。
  */

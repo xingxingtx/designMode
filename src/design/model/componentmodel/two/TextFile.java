@@ -1,7 +1,7 @@
 package design.model.componentmodel.two;
 
 /**
- * Created by Administrator on 2018/8/16.
+ * Created by wei.peng on 2018/8/16.
  * ● TextFile（叶子构件）
  */
 public class TextFile extends AbstractFile {

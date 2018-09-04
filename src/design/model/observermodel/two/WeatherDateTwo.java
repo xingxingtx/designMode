@@ -4,7 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by Administrator on 2018/7/25.
+ * Created by wei.peng on 2018/7/25.
  */
 public class WeatherDateTwo extends Observable{
     private float temperature;

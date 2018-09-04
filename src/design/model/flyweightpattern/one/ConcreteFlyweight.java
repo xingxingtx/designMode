@@ -1,7 +1,7 @@
 package design.model.flyweightpattern.one;
 
 /**
- * Created by Administrator on 2018/8/20.
+ * Created by wei.peng on 2018/8/20.
  */
 public class ConcreteFlyweight implements Flyweight{
     private Character intrinsicState = null;

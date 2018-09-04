@@ -2,7 +2,7 @@ package design.model.responsibilitychainmodel.three;
 
 /**
  * 告警规则
- * Created by Administrator on 2018/8/22.
+ * Created by wei.peng on 2018/8/22.
  */
 public class AlarmRule {
     private String name;

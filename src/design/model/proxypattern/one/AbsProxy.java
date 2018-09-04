@@ -1,7 +1,7 @@
 package design.model.proxypattern.one;
 
 /**
- * Created by Administrator on 2018/8/21.
+ * Created by wei.peng on 2018/8/21.
  *抽象对象角色
  */
 public interface AbsProxy {

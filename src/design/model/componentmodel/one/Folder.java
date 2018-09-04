@@ -3,7 +3,7 @@ package design.model.componentmodel.one;
 import java.util.ArrayList;
 
 /**
- * Created by Administrator on 2018/8/16.
+ * Created by wei.peng on 2018/8/16.
  *
  */
 public class Folder {

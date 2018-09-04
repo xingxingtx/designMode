@@ -1,7 +1,7 @@
 package design.model.Interpretermodel;
 
 /**
- * Created by Administrator on 2018/8/23.
+ * Created by wei.peng on 2018/8/23.
  */
 public class And extends Expression {
 

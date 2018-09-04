@@ -5,7 +5,7 @@ import java.util.Observable;
 import java.util.Observer;
 import design.model.observermodel.one.DisplayElement;
 /**
- * Created by Administrator on 2018/7/25.
+ * Created by wei.peng on 2018/7/25.
  */
 public class CurrentConditionsDisplayTwo implements Observer,DisplayElement{
     public Observable observable;

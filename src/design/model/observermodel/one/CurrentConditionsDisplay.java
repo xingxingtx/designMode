@@ -3,7 +3,7 @@ package design.model.observermodel.one;
 import java.util.Date;
 
 /**
- * Created by Administrator on 2018/7/25.
+ * Created by wei.peng on 2018/7/25.
  */
 public class CurrentConditionsDisplay implements Observer,DisplayElement{
     private float temperature;

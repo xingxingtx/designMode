@@ -1,7 +1,7 @@
 package design.model.mementomodel.one;
 
 /**
- * Created by Administrator on 2018/8/30.
+ * Created by wei.peng on 2018/8/30.
  * 发起人角色类，发起人角色利用一个新创建的备忘录对象将自己的内部状态存储起来。
  */
 public class Originator {

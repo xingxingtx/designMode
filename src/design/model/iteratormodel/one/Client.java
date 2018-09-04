@@ -1,7 +1,7 @@
 package design.model.iteratormodel.one;
 
 /**
- * Created by Administrator on 2018/8/28.
+ * Created by wei.peng on 2018/8/28.
  */
 public class Client {
     public static void operation(){

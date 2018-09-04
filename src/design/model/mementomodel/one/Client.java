@@ -1,7 +1,7 @@
 package design.model.mementomodel.one;
 
 /**
- * Created by Administrator on 2018/8/30.
+ * Created by wei.peng on 2018/8/30.
  */
 public class Client {
 

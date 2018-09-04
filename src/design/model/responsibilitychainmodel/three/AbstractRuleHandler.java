@@ -1,7 +1,7 @@
 package design.model.responsibilitychainmodel.three;
 
 /**
- * Created by Administrator on 2018/8/22.
+ * Created by wei.peng on 2018/8/22.
  * 抽象处理器
  */
 public abstract class AbstractRuleHandler {

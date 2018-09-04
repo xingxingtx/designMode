@@ -1,7 +1,7 @@
 package design.model.Singletonmodel;
 
 /**
- * Created by Administrator on 2018/7/31.
+ * Created by wei.peng on 2018/7/31.
  * 双重检查加锁
  * */
 public class DoubleCheckSingleton {

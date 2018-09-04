@@ -1,7 +1,7 @@
 package design.model.strategymodel;
 
 /**
- * Created by Administrator on 2018/7/23.
+ * Created by wei.peng on 2018/7/23.
  */
 public class King extends Character {
 

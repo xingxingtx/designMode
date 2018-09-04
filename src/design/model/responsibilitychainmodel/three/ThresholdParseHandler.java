@@ -3,7 +3,7 @@ package design.model.responsibilitychainmodel.three;
 import org.springframework.util.StringUtils;
 
 /**
- * Created by Administrator on 2018/8/22.
+ * Created by wei.peng on 2018/8/22.
  * 阈值解析处理器
  */
 public class ThresholdParseHandler extends AbstractRuleHandler {

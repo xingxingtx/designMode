@@ -1,7 +1,7 @@
 package design.model.buildermodel.one;
 
 /**
- * Created by Administrator on 2018/8/13.
+ * Created by wei.peng on 2018/8/13.
  */
 public class ConcreteBuilder implements Builder{
     private Product product = new Product();

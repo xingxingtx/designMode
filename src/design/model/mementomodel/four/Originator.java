@@ -1,7 +1,7 @@
 package design.model.mementomodel.four;
 
 /**
- * Created by Administrator on 2018/8/30.
+ * Created by wei.peng on 2018/8/30.
  * 发起人角色同时还兼任负责人角色，也就是说它自己负责保持自己的备忘录对象。
  */
 public class Originator {

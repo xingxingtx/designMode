@@ -1,7 +1,7 @@
 package design.model.proxypattern.three;
 
 /**
- * Created by Administrator on 2018/8/21.
+ * Created by wei.peng on 2018/8/21.
  */
 public class UserDao {
     public void save() {

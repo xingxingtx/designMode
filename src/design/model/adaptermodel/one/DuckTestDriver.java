@@ -1,7 +1,7 @@
 package design.model.adaptermodel.one;
 
 /**
- * Created by Administrator on 2018/8/2.
+ * Created by wei.peng on 2018/8/2.
  */
 public class DuckTestDriver {
     public static void main(String[] args){

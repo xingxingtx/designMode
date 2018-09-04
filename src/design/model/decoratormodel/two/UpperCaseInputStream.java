@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * Created by Administrator on 2018/7/26.
+ * Created by wei.peng on 2018/7/26.
  */
 public class UpperCaseInputStream extends FilterInputStream{
 

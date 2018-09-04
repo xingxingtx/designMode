@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * Created by Administrator on 2018/7/27.
+ * Created by wei.peng on 2018/7/27.
  */
 public class DoubleColorBallLottery extends Lottery {
     //开奖时间

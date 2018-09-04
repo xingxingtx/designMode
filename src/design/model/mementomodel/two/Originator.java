@@ -1,7 +1,7 @@
 package design.model.mementomodel.two;
 
 /**
- * Created by Administrator on 2018/8/30.
+ * Created by wei.peng on 2018/8/30.
  * 发起人角色类Originator中定义了一个内部的Memento类。由于此Memento类的全部接口都是私有的，因此只有它自己和发起人类可以调用。
  */
 public class Originator {

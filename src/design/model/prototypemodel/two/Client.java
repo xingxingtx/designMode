@@ -1,7 +1,7 @@
 package design.model.prototypemodel.two;
 
 /**
- * Created by Administrator on 2018/8/14.
+ * Created by wei.peng on 2018/8/14.
  */
 public class Client {
     public static void main(String[]args){

@@ -8,7 +8,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * Created by Administrator on 2018/8/21.
+ * Created by wei.peng on 2018/8/21.
  */
 public class MainTest {
     public static void main(String[] args) {

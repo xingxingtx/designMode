@@ -1,7 +1,7 @@
 package design.model.componentmodel.two;
 
 /**
- * Created by Administrator on 2018/8/16.
+ * Created by wei.peng on 2018/8/16.
  */
 public class Client {public static void main(String args[]) {
     //针对抽象构件编程
