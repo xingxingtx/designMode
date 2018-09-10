@@ -3,7 +3,7 @@ package sortingalgorithm.insertsort;
 import java.util.Arrays;
 
 /**
- * Created by Administrator on 2018/8/20.
+ * Created by wei.peng on 2018/8/20.
  */
 public class InsertSort implements Comparable<InsertSort>{
     int data;

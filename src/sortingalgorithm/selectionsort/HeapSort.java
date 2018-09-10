@@ -3,7 +3,7 @@ package sortingalgorithm.selectionsort;
 import java.util.Arrays;
 
 /**
- * Created by Administrator on 2018/8/20.
+ * Created by wei.peng on 2018/8/20.
  * 选择排序中的堆排序
  */
 public class HeapSort implements Comparable<HeapSort>{

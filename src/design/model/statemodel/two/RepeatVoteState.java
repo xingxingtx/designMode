@@ -1,7 +1,7 @@
 package design.model.statemodel.two;
 
 /**
- * Created by Administrator on 2018/9/4.
+ * Created by wei.peng on 2018/9/4.
  */
 public class RepeatVoteState implements VoteState{
     @Override

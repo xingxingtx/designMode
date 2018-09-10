@@ -3,7 +3,7 @@ package sortingalgorithm.exchangesort;
 import java.util.Arrays;
 
 /**
- * Created by Administrator on 2018/8/20.
+ * Created by wei.peng on 2018/8/20.
  * 交换排序中的快速排序
  */
 public class QuickSort implements Comparable<QuickSort>{

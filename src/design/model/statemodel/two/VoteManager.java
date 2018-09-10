@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Administrator on 2018/9/4.
+ * Created by wei.peng on 2018/9/4.
  * 环境类
  */
 public class VoteManager {
