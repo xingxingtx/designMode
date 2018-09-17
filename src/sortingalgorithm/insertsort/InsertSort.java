@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by wei.peng on 2018/8/20.
+ * 插入排序
  */
 public class InsertSort implements Comparable<InsertSort>{
     int data;

@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by wei.peng on 2018/8/20.
+ * 冒泡排序
  */
 public class BubbleSort implements Comparable<BubbleSort>{
     int data;
