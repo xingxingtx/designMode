@@ -8,6 +8,7 @@ public interface AbstractFactory {
      * 创建CPU对象
      * @return CPU对象
      */
+
     public abstract Cpu createCpu();
     /**
      * 创建主板对象
